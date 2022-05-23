@@ -1,7 +1,0 @@
-.opacity_enabled {
-  transition: opacity .3s ease;
-}
-
-.opacity_enabled:hover {
-  opacity: .6;
-}
