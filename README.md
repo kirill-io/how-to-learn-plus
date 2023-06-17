@@ -20,4 +20,4 @@ ___
 * API YouTube;
 * Iframe.
 ___
-Ссылка на демо сайта - how-to-learn-plus-six.vercel.app
+Ссылка на демо сайта - [how-to-learn-plus-six.vercel.app](https://how-to-learn-plus-six.vercel.app/)https://how-to-learn-plus-six.vercel.app/
