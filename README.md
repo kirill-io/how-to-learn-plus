@@ -49,9 +49,4 @@
 3. Откройте файл index.html в вашем браузере:
 
     ```bash 
-   open index.html
-
-
-
-
-  
+   open index.html  
