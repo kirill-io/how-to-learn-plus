@@ -50,7 +50,4 @@
     ```bash 
     cd how-to-learn
  
- 3. Откройте файл index.html в вашем браузере:
- 
-     ```bash 
-    open index.html  
+ 3. Откройте файл index.html в браузере или используйте расширение Live Server в редакторе кода (например, VS Code).
