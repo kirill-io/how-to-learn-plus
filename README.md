@@ -33,20 +33,3 @@
 ## Ссылка на демо
 
 - [Посмотреть проект в живую](https://how-to-learn-plus-six.vercel.app/)
-
-## Как запустить проект локально
-
-1. Склонируйте репозиторий:
-
-   ```bash
-   git clone https://github.com/yourusername/how-to-learn.git
-
-2. Перейдите в директорию проекта:
-
-   ```bash 
-   cd how-to-learn
-
-3. Откройте файл index.html в вашем браузере:
-
-    ```bash 
-   open index.html  
